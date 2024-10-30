@@ -9,3 +9,8 @@ header {
     color: rgb(255, 29, 29);
     border-bottom: solid 5px red
 }
+
+section {
+
+    display: flex;
+}
