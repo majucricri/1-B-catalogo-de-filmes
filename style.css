@@ -11,6 +11,9 @@ header {
 }
 
 section {
-
+    background-color: rgb(61, 55, 55);
+    padding: 30px;
+    margin-top: rgb(255, 255, 255);
     display: flex;
+    
 }
